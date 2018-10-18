@@ -1,6 +1,9 @@
 # web-scraping
 Learning how to scrape the web for endless data using different libraries and tools. The goal is to become well versed in mining data.
 
-# resources
+# libraries/tools
+-urllib
+-BeautifulSoup
 
+# resources
 - Web Scraping with Python
